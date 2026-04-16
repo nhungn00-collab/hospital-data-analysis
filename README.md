@@ -13,5 +13,5 @@ This project analyzes hospital performance to evaluate treatment effectiveness a
 - Surgery and combined treatments show higher success rates
 - Readmission is linked to lower satisfaction
 
-## 🌐 Project Website
-👉 https://tenban.github.io/hospital-data-analysis/
+## 🌐 Project Website 
+👉 [View Live Project](https://nhungn00-collab.github.io/hospital-data-analysis/)
