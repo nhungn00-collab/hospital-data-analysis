@@ -5,6 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Hospital Data Analysis</title>
 
+<p><a href="SQLQuery.sql">🔗 View SQL Code</a></p>
+
 <style>
 body {
   margin: 0;
@@ -159,6 +161,8 @@ footer {
     </ul>
   </div>
 </div>
+
+<p><strong>Impact:</strong> Reducing length of stay (LOS) can improve patient satisfaction and optimize hospital costs.</p>
 
 <!-- TOOLS -->
 <div class="section">
